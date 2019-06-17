@@ -1,4 +1,4 @@
-'' Create a class for username and password and create a object to check if they are equal and 
+''' Create a class for username and password and create a object to check if they are equal and 
 use operator overloading to check if both users are equal or not. username should start with e\E and 
 password should start with caps by use of property '''
 
